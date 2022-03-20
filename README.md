@@ -1,5 +1,5 @@
 # Twitter Covid Trend Analysis
-Individual Final Project for the course *Big Data Platform*
+Individual Final Project for *MSCA31013: Big Data Platform*
 
 ### Data Source ###
 A collection of Twitter data that is stored in Google Cloud Storage
